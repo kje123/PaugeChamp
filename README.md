@@ -1,5 +1,8 @@
 # PaugeChamp
 
+<img width="1173" height="592" alt="image" src="https://github.com/user-attachments/assets/35090804-da5c-4504-af21-a0df7980ce40" />
+
+
 A modern replacement for the Hauppauge HD PVR (model 1212, USB `2040:4900–4903/4982`) driver and capture software on Windows 11.
 
 NOTE: **THIS SOFTWARE WAS CREATED USING CLAUDE CODE! PLEASE BE MINDFUL THAT THIS IS AI GENERATED CODE!**
