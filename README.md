@@ -2,6 +2,8 @@
 
 A modern replacement for the Hauppauge HD PVR (model 1212, USB `2040:4900–4903/4982`) driver and capture software on Windows 11.
 
+NOTE: **THIS SOFTWARE WAS CREATED USING CLAUDE CODE! PLEASE BE MINDFUL THAT THIS IS AI GENERATED CODE!**
+
 | Old (2012) | PaugeChamp |
 |---|---|
 | `hcwhdpvr.sys` kernel driver (AVStream/KS, built for Vista) | Microsoft's built-in **WinUSB** driver, signed and maintained by Microsoft |
